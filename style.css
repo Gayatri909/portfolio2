@@ -15,7 +15,7 @@ html {
 }
 
 :root {
-    --color-primary: violet;
+    --color-primary: rgb(42, 108, 165);
     --color-primary-variant: black;
     --color-white: #ffffff;
     --color-dark: #88949b;
